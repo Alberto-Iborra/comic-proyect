@@ -1,0 +1,14 @@
+  <div class="gallery"  >
+    <ng-container *ngFor="let object of globalComics" >
+      <div class="gallery-box">
+        <h2>Name:{{object.title}}</h2>
+        <img src={{object.cover}} alt="">
+        <p>Author:{{object.author}}</p>
+        <span>Company:{{object.company}}</span>
+        <a routerLink="/comic/{{object.id}}">View Comic</a>
+      </div>
+    </ng-container>
+  </div>
+
+
+

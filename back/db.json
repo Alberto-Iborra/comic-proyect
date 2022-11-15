@@ -1,0 +1,46 @@
+{
+  "comics": [
+    {
+      "id": 1,
+      "title": "Batman: The Long Halloween",
+      "author": "Loeb",
+      "cover": "https://m.media-amazon.com/images/I/5133kCY6caL.jpg",
+      "company": "DC"
+    },
+    {
+      "id": 2,
+      "title": "Spiderman: Entre los muertos",
+      "author": "Millar",
+      "cover": "https://m.media-amazon.com/images/I/513-GlD0oWL.jpg",
+      "company": "Marvel"
+    },
+    {
+      "title": "Infinity Gauntlet",
+      "author": "Jim Starlin",
+      "cover": "https://i.pinimg.com/originals/0d/68/a1/0d68a1de6caacfcf562161dd58eec3aa.jpg",
+      "company": "Marvel",
+      "id": 3
+    },
+    {
+      "title": "Venom",
+      "author": "Cates",
+      "cover": "https://i.annihil.us/u/prod/marvel/i/mg/8/a0/5aea3123880ca/clean.jpg",
+      "company": "Marvel",
+      "id": 4
+    },
+    {
+      "title": "Batman 89",
+      "author": "Quinones",
+      "cover": "https://tajmahalcomics.com/wp-content/uploads/2021/09/2021851_xl.jpg",
+      "company": "DC",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "title": "stringss",
+      "cover": "https://www.tebeosfera.com/T3content/img/T3_numeros/0/1/el_jabato_extra_01/w-423_el_jabato_extra_01.jpg",
+      "author": "stringss",
+      "company": "strings"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<main>
+  <div class="gallery"  >
+    <div class="gallery-box">
+        <h2>Name:{{comic.title}}</h2>
+        <img src={{comic.cover}} alt="">
+        <p>Author:{{comic.author}}</p>
+        <span>Company:{{comic.company}}</span>
+        <button (click)="delete(comic.id)">Eliminar</button>
+    </div>
+  </div>
+</main>
